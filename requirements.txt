@@ -9,3 +9,6 @@ pytesseract
 pillow
 google-api-python-client
 regex
+librosa==0.10.1
+pandas
+soundfile
