@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+SpeechRecognition
+openai-whisper
+ffmpeg-python
+pytesseract
+pillow
+google-api-python-client
+regex
