@@ -1,1 +1,2 @@
 VerbaSafe is a Multilingual Multimodal Political Speech Analaysis and Hate Speech Detection System made by Abhijeet Singh Rao (RA2211003010820) And Aman Sharma (RA2211003010820) as the final year CSE Major project under the guidance of Dr. Aruna M. at SRM INSTITUTE OF SCIENCE AND TECHNOLOGY, KATTANKULATHUR
+<img width="1440" height="900" alt="Screenshot 2026-05-16 at 4 47 18 AM" src="https://github.com/user-attachments/assets/d3879bc7-c4d1-4e23-bc5d-fe8030c07055" />
